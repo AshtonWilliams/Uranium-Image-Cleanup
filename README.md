@@ -1,5 +1,5 @@
 # Uranium-Image-Cleanup
-A program that uses the OpenCV image processing library to remove unwanted labels from specific images of uranium.
+A program that uses the OpenCV computer vision library to remove unwanted labels from specific images of uranium.
 I made this in collaboration with a team for a class in college as a senior. I programmed all the image processing code for this project.
 
 Refer the user manual to see how it works.
