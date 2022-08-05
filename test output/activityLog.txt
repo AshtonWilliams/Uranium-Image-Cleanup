@@ -1,0 +1,8 @@
+[20/07/2022 13:12:04]: Input Directory: C:\Users\ashto\Desktop\test input
+[20/07/2022 13:12:04]: Output Directory: C:\Users\ashto\Desktop\test output
+Processing Images...
+[20/07/2022 13:13:04]: * Image: C:\Users\ashto\Desktop\test output\RESULT_20-07-2022_13-13-04_Q016312C1010U01.tif saved
+[20/07/2022 13:14:07]: * Image: C:\Users\ashto\Desktop\test output\RESULT_20-07-2022_13-14-07_Q016312C1020U01.tif saved
+[20/07/2022 13:15:07]: * Image: C:\Users\ashto\Desktop\test output\RESULT_20-07-2022_13-15-07_Q016312C1030U01.tif saved
+[20/07/2022 13:15:07]: Completed successfully.
+----------
