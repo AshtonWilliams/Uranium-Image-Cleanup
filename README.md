@@ -7,4 +7,5 @@ It has been packaged as an executable that can be downloaded via this link: http
 It also has been packaged and is downloadable via pip install. PyPi link: https://pypi.org/project/uranium-image-cleanup/\
 
 Below is a comparison image of how it works:
+
 ![Comparison1](https://user-images.githubusercontent.com/98552891/182986801-8c563d4e-0439-4bdb-a67d-62547a547ab6.png)
